@@ -1,11 +1,16 @@
 ## Hi there 👋
 
-I’m @ChnjFan, a network protocol developer.
-
-- 👀 I’m interested in C/C++, network protocol stacks (TCP/IP, gRPC, MQTT), IM server, and system performance optimization.
-- 🌱 I’m currently learning AI Agent.
-- 💞️ I’m looking to collaborate on open-source network projects—such as custom protocol design, Protobuf/JSON data encoding optimization, or high-performance RPC framework development. Also open to joint efforts on IoT protocol implementations (MQTT/CoAP) or low-latency communication systems.
-- 📫 How to reach me: Connect via GitHub (@ChnjFan) or send an email to [chnj_lf@163.com]. Feel free to DM me for technical discussions on network programming!
+Hi 👋 I'm @ChnjFan
+A developer with solid experience in network protocol development. Currently, I mainly focus on robot architecture development and ROS communication mechanism optimization.
+👀 Interests & Expertise
+C/C++, TCP/IP stack, gRPC, MQTT, high-performance RPC framework, low-latency communication, system performance optimization, IM server development, ROS middleware & robot communication tuning.
+🌱 Currently Learning
+AI Agent & intelligent robot system design
+💞️ Open to Collaborate
+Open-source projects related to custom network protocol design, Protobuf/JSON data encoding optimization, high-performance & low-latency communication systems, IoT protocol implementation, and ROS-based robot architecture & communication optimization.
+📫 Contact Me
+GitHub: @ChnjFan | Email: chnj_lf@163.com
+Feel free to reach out for technical discussions about network programming, robot architecture and ROS system optimization!
 
 <!---
 ChnjFan/ChnjFan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
